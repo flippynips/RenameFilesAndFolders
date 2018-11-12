@@ -1,0 +1,11 @@
+F:\Projects\NodeJS\RenameFilesAndFolders\obj\Debug\netcoreapp2.0\RenameFilesAndFolders.csproj.CoreCompileInputs.cache
+F:\Projects\NodeJS\RenameFilesAndFolders\obj\Debug\netcoreapp2.0\RenameFilesAndFolders.AssemblyInfoInputs.cache
+F:\Projects\NodeJS\RenameFilesAndFolders\obj\Debug\netcoreapp2.0\RenameFilesAndFolders.AssemblyInfo.cs
+F:\Projects\NodeJS\RenameFilesAndFolders\bin\Debug\netcoreapp2.0\RenameFilesAndFolders.deps.json
+F:\Projects\NodeJS\RenameFilesAndFolders\bin\Debug\netcoreapp2.0\RenameFilesAndFolders.runtimeconfig.json
+F:\Projects\NodeJS\RenameFilesAndFolders\bin\Debug\netcoreapp2.0\RenameFilesAndFolders.runtimeconfig.dev.json
+F:\Projects\NodeJS\RenameFilesAndFolders\bin\Debug\netcoreapp2.0\RenameFilesAndFolders.dll
+F:\Projects\NodeJS\RenameFilesAndFolders\bin\Debug\netcoreapp2.0\RenameFilesAndFolders.pdb
+F:\Projects\NodeJS\RenameFilesAndFolders\obj\Debug\netcoreapp2.0\RenameFilesAndFolders.csprojResolveAssemblyReference.cache
+F:\Projects\NodeJS\RenameFilesAndFolders\obj\Debug\netcoreapp2.0\RenameFilesAndFolders.dll
+F:\Projects\NodeJS\RenameFilesAndFolders\obj\Debug\netcoreapp2.0\RenameFilesAndFolders.pdb
