@@ -3,7 +3,7 @@
 Simple dotnet core app to quickly manipulate file names and directories recursively. Created out of necessity.
 
 ## Usage
-
+```
 Usage: RenameFilesAndFolders.exe [flags] [options] {old string} {new string}
 
 Flags;
@@ -16,3 +16,4 @@ Options;
   -r {value} : Optional regex filter to be applied to both files and directories. Exclusive to -rf and -rd.
   -rf {value} : Optional regex filter for file names to be renamed.
   -rd {value} : Optional regex filter for directories to be traversed and renamed.
+```
